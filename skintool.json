@@ -23,15 +23,11 @@
   ],
    "SKINS-MOD":
   [
-    {
-      "title": "Xavier Jujutsu Kaisen",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnNe5pLIXzAT_evpAkohawXq_GXLHwd4lPAYEi36qBg77gSol0dK_DKTTu59M0LhvI5c7ENBBlZK5JX3_inHG5Rdun6BRTBf9-MSmOfLaXxGAxCwZs0_l-lYzacQp_JljAoKaJIt6J_jdJhhJdSszZrVpPtyWbsiGLIzsgzicq6vip6JuxM7MurVFgbg/s3544/xavier-satoru-gojo-jujutsu-kaisen-skin-wallpaper-hd.jpg",
-      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Xavier%20Jujutsu%20Kaisen.zip",
-      "alterntif_url_skin": "https://www.mediafire.com/file/j61bux7y172bsta/Xavier_Jujutsu_Kaisen.zip/file",
-      "size_skins": "13 MB",
-      "coins": 100
-    },
-    {
+    
+	
+	
+	
+	{
       "title":"Chou",
       "image":"file:///android_asset/images/chou.jpg",
       "url_skins":"null",
@@ -39,81 +35,24 @@
       "size_skins": "12 MB",
       "coins":200
     },
-    {
-      "title":"Saber Legend",
-      "image":"https://aliendro.id/uploads/demo/ml/saber.jpg",
-      "url_skins":"null",
-      "alterntif_url_skin":"null",
-      "size_skins": "20 MB",
-      "coins":100
+	{
+      "title": "Xavier Jujutsu Kaisen",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnNe5pLIXzAT_evpAkohawXq_GXLHwd4lPAYEi36qBg77gSol0dK_DKTTu59M0LhvI5c7ENBBlZK5JX3_inHG5Rdun6BRTBf9-MSmOfLaXxGAxCwZs0_l-lYzacQp_JljAoKaJIt6J_jdJhhJdSszZrVpPtyWbsiGLIzsgzicq6vip6JuxM7MurVFgbg/s3544/xavier-satoru-gojo-jujutsu-kaisen-skin-wallpaper-hd.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Xavier%20Jujutsu%20Kaisen.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/mo8p50jnjr2m0fz/Xavier_Jujutsu_Kaisen.zip/file",
+      "size_skins": "13 MB",
+      "coins": 100
     }
-  ,
-    {
-      "title":"Bruno Special",
-      "image":"file:///android_asset/images/bruno.jpg",
-      "url_skins":"https://aliendro.id/uploads/demo/ml/Bruno Special.zip",
-      "alterntif_url_skin":"https://www.mediafire.com/file/uxp39qflfn0ui83/Bruno_Special.zip/file",
-      "size_skins": "4.3 MB",
-      "coins":250
-    }
-  ,
-    {
-      "title":"Cloude",
-      "image":"file:///android_asset/images/cloude.jpg",
-      "url_skins":"null",
-      "alterntif_url_skin":"null",
-      "size_skins": "10 MB",
-      "coins":100
-    },
-    {
-      "title":"Zilong 515",
-      "image":"file:///android_asset/images/zilong.jpg",
-      "url_skins":"https://aliendro.id/uploads/demo/ml/Zilong 515.zip",
-      "alterntif_url_skin":"https://www.mediafire.com/file/kvd95quk60efzzo/Zilong_515.zip/file",
-      "size_skins": "8.4 MB",
-      "coins":100
-    },
-    {
-      "title":"Hayabusa",
-      "image":"file:///android_asset/images/hayabusa.jpg",
-      "url_skins":"null",
-      "alterntif_url_skin":"null",
-      "size_skins": "10 MB",
-      "coins":100
-    },
-    {
-      "title":"Clint",
-      "image":"file:///android_asset/images/clint.jpg",
-      "url_skins":"null",
-      "alterntif_url_skin":"null",
-      "size_skins": "24 MB",
-      "coins":100
-    },
-    {
-      "title":"Aldous",
-      "image":"file:///android_asset/images/aldous.jpg",
-      "url_skins":"null",
-      "alterntif_url_skin":"null",
-      "size_skins": "7 MB",
-      "coins":100
-    },
-    {
-      "title":"Grager",
-      "image":"file:///android_asset/images/grager.jpg",
-      "url_skins":"null",
-      "alterntif_url_skin":"null",
-      "size_skins": "10 MB",
-      "coins":100
-    }
+   
   ],
   "SKINS-ORIGINAL":
   [
     {
-      "title": "Hero Akai Original",
-      "image": "file:///android_asset/images/akai.jpg",
-      "url_skins": "null",
-      "alterntif_url_skin": "null",
-      "size_skins": "15 MB",
+      "title": "Xavier Original",
+      "image": "https://image-1.uhdpaper.com/wallpaper/xavier-mobile-legends-hd-wallpaper-uhdpaper.com-334@1@g.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Xavier%20Original.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/88d4j2fv5bnp27m/Xavier_Original.zip/file",
+      "size_skins": "11 MB",
       "coins": 100
     }
   ],
