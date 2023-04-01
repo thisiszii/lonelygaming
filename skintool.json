@@ -28,12 +28,12 @@
 	
 	
 	{
-      "title":"Chou",
-      "image":"file:///android_asset/images/chou.jpg",
-      "url_skins":"null",
-      "alterntif_url_skin":"null",
-      "size_skins": "12 MB",
-      "coins":200
+      "title":"Chou Iori Yagami",
+      "image":"https://cdn.upstation.asia/wp-content/uploads/2022/01/skin-chou-1024x576.jpg",
+      "url_skins":"https://kangmediadev.com/lonelygaming/mlskin/Chou%20Iori%20Yagami.zip",
+      "alterntif_url_skin":"https://www.mediafire.com/file/i1c0g5ctus57g8j/Chou_Iori_Yagami.zip/file",
+      "size_skins": "6 MB",
+      "coins":100
     },
 	{
       "title": "Xavier Jujutsu Kaisen",
@@ -48,11 +48,19 @@
   "SKINS-ORIGINAL":
   [
     {
+      "title": "Chou Original",
+      "image": "https://wallpapercave.com/wp/wp5890636.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Chou%20Original.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/664qu55shcbujb9/Chou_Original.zip/file",
+      "size_skins": "11 MB",
+      "coins": 100
+    },
+	{
       "title": "Xavier Original",
       "image": "https://gamebrott.com/wp-content/uploads/2022/05/xavier-mobile-legends-hd-wallpaper-uhdpaper.com-334@1@g.jpg",
       "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Xavier%20Original.zip",
       "alterntif_url_skin": "https://www.mediafire.com/file/88d4j2fv5bnp27m/Xavier_Original.zip/file",
-      "size_skins": "11 MB",
+      "size_skins": "17 MB",
       "coins": 100
     }
   ],
