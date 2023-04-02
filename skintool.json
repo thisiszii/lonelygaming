@@ -26,15 +26,6 @@
     
 	
 	
-	
-	{
-      "title":"Chou Iori Yagami",
-      "image":"https://cdn.upstation.asia/wp-content/uploads/2022/01/skin-chou-1024x576.jpg",
-      "url_skins":"https://kangmediadev.com/lonelygaming/mlskin/Chou%20Iori%20Yagami.zip",
-      "alterntif_url_skin":"https://www.mediafire.com/file/i1c0g5ctus57g8j/Chou_Iori_Yagami.zip/file",
-      "size_skins": "6 MB",
-      "coins":100
-    },
 	{
       "title": "Xavier Jujutsu Kaisen",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnNe5pLIXzAT_evpAkohawXq_GXLHwd4lPAYEi36qBg77gSol0dK_DKTTu59M0LhvI5c7ENBBlZK5JX3_inHG5Rdun6BRTBf9-MSmOfLaXxGAxCwZs0_l-lYzacQp_JljAoKaJIt6J_jdJhhJdSszZrVpPtyWbsiGLIzsgzicq6vip6JuxM7MurVFgbg/s3544/xavier-satoru-gojo-jujutsu-kaisen-skin-wallpaper-hd.jpg",
@@ -42,7 +33,24 @@
       "alterntif_url_skin": "https://www.mediafire.com/file/mo8p50jnjr2m0fz/Xavier_Jujutsu_Kaisen.zip/file",
       "size_skins": "13 MB",
       "coins": 100
+    },
+	{
+      "title": "Ling Dragon Tamer",
+      "image": "https://dailyspin.id/wp-content/uploads/2021/06/ling-night-shade-skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Ling%20Dragon%20Tamer.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/0sa93p70h147p0i/Ling_Dragon_Tamer.zip/file",
+      "size_skins": "8 MB",
+      "coins": 100
+    },
+	{
+      "title":"Chou Iori Yagami",
+      "image":"https://cdn.upstation.asia/wp-content/uploads/2022/01/skin-chou-1024x576.jpg",
+      "url_skins":"https://kangmediadev.com/lonelygaming/mlskin/Chou%20Iori%20Yagami.zip",
+      "alterntif_url_skin":"https://www.mediafire.com/file/i1c0g5ctus57g8j/Chou_Iori_Yagami.zip/file",
+      "size_skins": "6 MB",
+      "coins":100
     }
+	
    
   ],
   "SKINS-ORIGINAL":
@@ -53,6 +61,14 @@
       "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Chou%20Original.zip",
       "alterntif_url_skin": "https://www.mediafire.com/file/664qu55shcbujb9/Chou_Original.zip/file",
       "size_skins": "11 MB",
+      "coins": 100
+    },
+	{
+      "title": "Ling Original",
+      "image": "https://gamefinity.id/wp-content/uploads/2021/08/Mobile-Legends-Ling.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Ling%20Original.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/b1pldo31yaidp4b/Ling_Original.zip/file",
+      "size_skins": "27 MB",
       "coins": 100
     },
 	{
