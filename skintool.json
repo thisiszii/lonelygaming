@@ -1,22 +1,22 @@
 {
   "Ads": [
     {
-      "select_main_ads": "ADMOB",
-      "select_backup_ads":"FACEBOOK",
-      "main_ads_banner": "ca-app-pub-1899700484950367/6861966751",
-      "main_ads_intertitial":"ca-app-pub-1899700484950367/7329952180",
-      "main_ads_rewards":"ca-app-pub-1899700484950367/6016870514",
-      "backup_ads_banner":"947016273149488_947016423149473",
-      "backup_ads_intertitial":"947016273149488_947016483149467",
-      "backup_ads_rewards":"947016273149488_947016559816126",
-      "interval_intertitial": 3,
+      "select_main_ads": "",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_rewards":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "interval_intertitial": ,
       "initialize_sdk":"",
       "initialize_sdk_backup_ads":"",
-      "high_paying_keyword_1": "Insurance",
-      "high_paying_keyword_2": "Gas",
-      "high_paying_keyword_3": "Mortgage",
-      "high_paying_keyword_4": "Attorney",
-      "high_paying_keyword_5": "Loans",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
       "status_app": "0",
       "link_redirect": "https://"
     }
@@ -26,82 +26,15 @@
     
 	
 	
-	{
-      "title": "Xavier Jujutsu Kaisen",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnNe5pLIXzAT_evpAkohawXq_GXLHwd4lPAYEi36qBg77gSol0dK_DKTTu59M0LhvI5c7ENBBlZK5JX3_inHG5Rdun6BRTBf9-MSmOfLaXxGAxCwZs0_l-lYzacQp_JljAoKaJIt6J_jdJhhJdSszZrVpPtyWbsiGLIzsgzicq6vip6JuxM7MurVFgbg/s3544/xavier-satoru-gojo-jujutsu-kaisen-skin-wallpaper-hd.jpg",
-      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Xavier%20Jujutsu%20Kaisen.zip",
-      "alterntif_url_skin": "https://www.mediafire.com/file/mo8p50jnjr2m0fz/Xavier_Jujutsu_Kaisen.zip/file",
-      "size_skins": "13 MB",
-      "coins": 100
-    },
-	{
-      "title": "Ling Dragon Tamer",
-      "image": "https://dailyspin.id/wp-content/uploads/2021/06/ling-night-shade-skin.jpg",
-      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Ling%20Dragon%20Tamer.zip",
-      "alterntif_url_skin": "https://www.mediafire.com/file/0sa93p70h147p0i/Ling_Dragon_Tamer.zip/file",
-      "size_skins": "8 MB",
-      "coins": 100
-    },
-	{
-      "title":"Chou Iori Yagami",
-      "image":"https://cdn.upstation.asia/wp-content/uploads/2022/01/skin-chou-1024x576.jpg",
-      "url_skins":"https://kangmediadev.com/lonelygaming/mlskin/Chou%20Iori%20Yagami.zip",
-      "alterntif_url_skin":"https://www.mediafire.com/file/i1c0g5ctus57g8j/Chou_Iori_Yagami.zip/file",
-      "size_skins": "6 MB",
-      "coins":100
-    }
-	
    
   ],
   "SKINS-ORIGINAL":
   [
-    {
-      "title": "Chou Original",
-      "image": "https://wallpapercave.com/wp/wp5890636.jpg",
-      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Chou%20Original.zip",
-      "alterntif_url_skin": "https://www.mediafire.com/file/664qu55shcbujb9/Chou_Original.zip/file",
-      "size_skins": "11 MB",
-      "coins": 100
-    },
-	{
-      "title": "Ling Original",
-      "image": "https://gamefinity.id/wp-content/uploads/2021/08/Mobile-Legends-Ling.jpg",
-      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Ling%20Original.zip",
-      "alterntif_url_skin": "https://www.mediafire.com/file/b1pldo31yaidp4b/Ling_Original.zip/file",
-      "size_skins": "27 MB",
-      "coins": 100
-    },
-	{
-      "title": "Xavier Original",
-      "image": "https://gamebrott.com/wp-content/uploads/2022/05/xavier-mobile-legends-hd-wallpaper-uhdpaper.com-334@1@g.jpg",
-      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Xavier%20Original.zip",
-      "alterntif_url_skin": "https://www.mediafire.com/file/88d4j2fv5bnp27m/Xavier_Original.zip/file",
-      "size_skins": "17 MB",
-      "coins": 100
-    }
+   
   ],
   "GUIDE":
   [
-    {
-      "title":"How to install script Manual?",
-      "image":"https://i.ibb.co/0K3vjgT/gusion-cosmic-gleam-skin-mobile-legends-uhdpaper-com-hd-6-2934.jpg",
-      "description":"https://kangmediadev.com/lonelygaming/mlskin/tutorial/manualinstall.html"
-    },
-    {
-      "title":"How to install script Auto?",
-      "image":"https://i.ibb.co/Z6k0Hcs/saber-codename-storm-skin-mobile-legends-uhdpaper-com-4-K-21.jpg",
-      "description":"https://kangmediadev.com/lonelygaming/mlskin/tutorial/autoinstall.html"
-    },
-    {
-      "title":"How to backup or restore skin?",
-      "image":"https://i.ibb.co/FXtVm2N/miya-modena-butterfly-legend-skin-mobile-legends-hd-wallpaper-1920x1080-uhdpaper-com-171-1-a.jpg",
-      "description":"https://kangmediadev.com/lonelygaming/mlskin/tutorial/backup.html"
-    },
-	{
-      "title":"How to get coins?",
-      "image":"https://i.ibb.co/QHCCNCj/alucard-obsidian-blade-skin-mobile-legends-uhdpaper-com-hd-6-3004.jpg",
-      "description":"https://kangmediadev.com/lonelygaming/mlskin/tutorial/getcoins.html"
-    }
+    
   
   ]
 }
