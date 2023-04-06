@@ -80,7 +80,7 @@
       "link": "file:///android_asset/guide/getting/installing.html"
     },
     {
-      "id": 2,
+      "id": 3,
       "name_category": "Getting Started",
       "title": "RuStore interface",
       "image": "file:///android_asset/image/ru.jpeg",
@@ -88,7 +88,7 @@
       "link": "file:///android_asset/guide/getting/interface.html"
     },
 	{
-      "id": 2,
+      "id": 4,
       "name_category": "Getting Started",
       "title": "Notifications in RuStore",
       "image": "file:///android_asset/image/ru.jpeg",
@@ -96,7 +96,7 @@
       "link": "file:///android_asset/guide/getting/installing.html"
     },
 	{
-      "id": 2,
+      "id": 5,
       "name_category": "Getting Started",
       "title": "Application page in RuStore",
       "image": "file:///android_asset/image/ru.jpeg",
@@ -104,7 +104,7 @@
       "link": "file:///android_asset/guide/getting/installing.html"
     },
 	{
-      "id": 2,
+      "id": 6,
       "name_category": "Getting Started",
       "title": "How to update RuStore app",
       "image": "file:///android_asset/image/ru.jpeg",
