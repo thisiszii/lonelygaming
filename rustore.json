@@ -90,25 +90,25 @@
 	{
       "id": 2,
       "name_category": "Getting Started",
-      "title": "Installing the RuStore application",
+      "title": "Notifications in RuStore",
       "image": "file:///android_asset/image/ru.jpeg",
-      "description": "How to install RuStore, installation problems, RuStore for iOS, RuStore security",
+      "description": "Allow RuStore to send notifications about new versions of applications on your device",
       "link": "file:///android_asset/guide/getting/installing.html"
     },
 	{
       "id": 2,
       "name_category": "Getting Started",
-      "title": "Installing the RuStore application",
+      "title": "Application page in RuStore",
       "image": "file:///android_asset/image/ru.jpeg",
-      "description": "How to install RuStore, installation problems, RuStore for iOS, RuStore security",
+      "description": "The application page in RuStore contains information about the application",
       "link": "file:///android_asset/guide/getting/installing.html"
     },
 	{
       "id": 2,
       "name_category": "Getting Started",
-      "title": "Installing the RuStore application",
+      "title": "How to update RuStore app",
       "image": "file:///android_asset/image/ru.jpeg",
-      "description": "How to install RuStore, installation problems, RuStore for iOS, RuStore security",
+      "description": "The RuStore application will send you a notification prompting you to update the version of the application",
       "link": "file:///android_asset/guide/getting/installing.html"
     },
 	
