@@ -93,7 +93,7 @@
       "title": "Notifications in RuStore",
       "image": "file:///android_asset/image/ru.jpeg",
       "description": "Allow RuStore to send notifications about new versions of applications on your device",
-      "link": "file:///android_asset/guide/getting/installing.html"
+      "link": "file:///android_asset/guide/getting/notif.html"
     },
 	{
       "id": 5,
@@ -101,7 +101,7 @@
       "title": "Application page in RuStore",
       "image": "file:///android_asset/image/ru.jpeg",
       "description": "The application page in RuStore contains information about the application",
-      "link": "file:///android_asset/guide/getting/installing.html"
+      "link": "file:///android_asset/guide/getting/apppage.html"
     },
 	{
       "id": 6,
@@ -109,7 +109,7 @@
       "title": "How to update RuStore app",
       "image": "file:///android_asset/image/ru.jpeg",
       "description": "The RuStore application will send you a notification prompting you to update the version of the application",
-      "link": "file:///android_asset/guide/getting/installing.html"
+      "link": "file:///android_asset/guide/getting/update.html"
     }
 	
 	
