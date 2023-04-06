@@ -78,8 +78,39 @@
       "image": "file:///android_asset/image/ru.jpeg",
       "description": "How to install RuStore, installation problems, RuStore for iOS, RuStore security",
       "link": "file:///android_asset/guide/getting/installing.html"
-    }
-    
+    },
+    {
+      "id": 2,
+      "name_category": "Getting Started",
+      "title": "RuStore interface",
+      "image": "file:///android_asset/image/ru.jpeg",
+      "description": "RuStore application interface consists of four sections: applications, games, profile, search",
+      "link": "file:///android_asset/guide/getting/interface.html"
+    },
+	{
+      "id": 2,
+      "name_category": "Getting Started",
+      "title": "Installing the RuStore application",
+      "image": "file:///android_asset/image/ru.jpeg",
+      "description": "How to install RuStore, installation problems, RuStore for iOS, RuStore security",
+      "link": "file:///android_asset/guide/getting/installing.html"
+    },
+	{
+      "id": 2,
+      "name_category": "Getting Started",
+      "title": "Installing the RuStore application",
+      "image": "file:///android_asset/image/ru.jpeg",
+      "description": "How to install RuStore, installation problems, RuStore for iOS, RuStore security",
+      "link": "file:///android_asset/guide/getting/installing.html"
+    },
+	{
+      "id": 2,
+      "name_category": "Getting Started",
+      "title": "Installing the RuStore application",
+      "image": "file:///android_asset/image/ru.jpeg",
+      "description": "How to install RuStore, installation problems, RuStore for iOS, RuStore security",
+      "link": "file:///android_asset/guide/getting/installing.html"
+    },
 	
 	
 	
