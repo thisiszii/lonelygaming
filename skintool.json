@@ -24,7 +24,14 @@
    "SKINS-MOD":
   [
     
-	
+	{
+      "title": "Beatrix Stellar Brilliance",
+      "image": "https://i.ytimg.com/vi/bIiqMauWzA8/maxresdefault.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Beatrix%20Stellar%20Brilliance.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/n4yh53jxyxdhv7j/Beatrix_Stellar_Brilliance.zip/file",
+      "size_skins": "31 MB",
+      "coins": 100
+    },
 	{
       "title": "Ling Street Punk",
       "image": "https://1.bp.blogspot.com/-eloRxOuI6kk/X26z_9ZU1II/AAAAAAAAIgM/zm5HjojIuY8aDPdLeaNxsi1kSPDVdzyxgCNcBGAsYHQ/w919/ling-street-punk-skin-mobile-legends-uhdpaper.com-4K-6.2994-wp.thumbnail.jpg",
@@ -62,7 +69,17 @@
   ],
   "SKINS-ORIGINAL":
   [
-    {
+    
+	
+	{
+      "title": "Beatrix Original",
+      "image": "https://image.akurat.co/uploads/gallery/2022/10/gal_6350f1f9c2dca7-62393984-17929636.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Beatrix%20Original.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/uj971ag34x4rz7o/Beatrix_Original.zip/file",
+      "size_skins": "22 MB",
+      "coins": 100
+    },
+	{
       "title": "Chou Original",
       "image": "https://wallpapercave.com/wp/wp5890636.jpg",
       "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Chou%20Original.zip",
