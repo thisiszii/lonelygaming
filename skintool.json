@@ -24,7 +24,14 @@
    "SKINS-MOD":
   [
     
-	
+	{
+      "title": "Gusion K",
+      "image": "https://liquipedia.net/commons/images/e/e4/Gusion_K%27_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Gusion%20K.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/7a9tzffoktjx57c/Gusion+K.zip/file",
+      "size_skins": "7 MB",
+      "coins": 100
+    },
 	{
       "title": "Dyrroth Orochi Chris",
       "image": "https://liquipedia.net/commons/images/a/ac/Dyrroth_Orochi_Chris_Skin.jpg",
@@ -310,6 +317,14 @@
       "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Gloo%20Original.zip",
       "alterntif_url_skin": "https://www.mediafire.com/file/egruyx0wwynp4mm/Gloo+Original.zip/file",
       "size_skins": "9 MB",
+      "coins": 100
+    },
+	{
+      "title": "Gusion Original",
+      "image": "https://liquipedia.net/commons/images/e/e6/Gusion_Holy_Blade_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Gusion%20Original.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/gzng8yex0uzaf28/Gusion+Original.zip/file",
+      "size_skins": "22 MB",
       "coins": 100
     },
 	{
