@@ -28,7 +28,14 @@
 	
 	
 	
-	
+	{
+      "title": "Roger Phantom Pirate",
+      "image": "https://cdn.oneesports.gg/cdn-data/2023/03/MLBB_PhantomPirate_Roger_portrait.jpeg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Roger%20Phantom%20Pirate.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/9oa4hnno6aq22cw/Roger_Phantom_Pirate.zip/file",
+      "size_skins": "14 MB",
+      "coins": 100
+    },
 	{
       "title": "Moskov Violet Spear",
       "image": "https://dailyspin.id/wp-content/uploads/2023/03/Starlight-Mei-2023.jpg",
@@ -274,6 +281,14 @@
       "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Moskov%20Original.zip",
       "alterntif_url_skin": "https://www.mediafire.com/file/3g8fy4qohgi4dav/Moskov_Original.zip/file",
       "size_skins": "9 MB",
+      "coins": 100
+    },
+	{
+      "title": "Roger Original",
+      "image": "https://liquipedia.net/commons/images/thumb/1/1c/Roger_Dire_Wolf_Hunter_Skin.jpg/475px-Roger_Dire_Wolf_Hunter_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Roger%20Original.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/hl5f09tlzfzh3rg/Roger_Original.zip/file",
+      "size_skins": "37 MB",
       "coins": 100
     },
 	{
