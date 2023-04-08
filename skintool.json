@@ -25,7 +25,14 @@
   [
     
 	
-	
+	{
+      "title": "Clint Crimson Blast",
+      "image": "https://i.ibb.co/xh8Vv03/Fq67-G6wa-YAEj-Wwf.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Clint%20Crimson%20Blast.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/6cuta4e74kjq94m/Clint+Crimson+Blast.zip/file",
+      "size_skins": "10 MB",
+      "coins": 100
+    },
 	{
       "title": "Edith Ancient Warden",
       "image": "https://i.ibb.co/SRX5ZdG/Fst-Zo8-YXs-AABpdm.jpg",
@@ -231,6 +238,14 @@
       "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Claude%20Original.zip",
       "alterntif_url_skin": "https://www.mediafire.com/file/dqlf51ujtcs7i8u/Claude_Original.zip/file",
       "size_skins": "14 MB",
+      "coins": 100
+    },
+	{
+      "title": "Clint Original",
+      "image": "https://liquipedia.net/commons/images/thumb/5/57/Clint_West_Justice_Skin.jpg/800px-Clint_West_Justice_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Clint%20Original.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/dbifh9omnmniv87/Clint+Original.zip/file",
+      "size_skins": "7 MB",
       "coins": 100
     },
 	{
