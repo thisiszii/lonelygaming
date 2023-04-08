@@ -24,6 +24,15 @@
    "SKINS-MOD":
   [
     
+	
+	{
+      "title": "Dyrroth Orochi Chris",
+      "image": "https://liquipedia.net/commons/images/a/ac/Dyrroth_Orochi_Chris_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Dyrroth%20Orochi%20Chris.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/2gfkzf5lf53tu8u/Dyrroth+Orochi+Chris.zip/file",
+      "size_skins": "6 MB",
+      "coins": 100
+    },
 	{
       "title": "Yu Zhong Exorcist",
       "image": "https://liquipedia.net/commons/images/9/94/Yu_Zhong_Exorcist_Yu_Zhong_Skin.jpg",
@@ -252,6 +261,14 @@
       "image": "https://liquipedia.net/commons/images/thumb/5/57/Clint_West_Justice_Skin.jpg/800px-Clint_West_Justice_Skin.jpg",
       "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Clint%20Original.zip",
       "alterntif_url_skin": "https://www.mediafire.com/file/dbifh9omnmniv87/Clint+Original.zip/file",
+      "size_skins": "7 MB",
+      "coins": 100
+    },
+	{
+      "title": "Dyrroth Original",
+      "image": "https://liquipedia.net/commons/images/d/d3/Dyrroth_Prince_of_the_Abyss_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Dyrroth%20Original.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/s40qih89fl1y65c/Dyrroth+Original.zip/file",
       "size_skins": "7 MB",
       "coins": 100
     },
