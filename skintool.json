@@ -24,7 +24,14 @@
    "SKINS-MOD":
   [
     
-	
+	{
+      "title": "Franco King of Hell",
+      "image": "https://i.ibb.co/4pzC3Kt/Fi-21-An-Vs-AAS3t3-format-jpg-name-large.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Franco%20King%20of%20Hell.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/6xleb8oeo0futto/Franco_King_of_Hell.zip/file",
+      "size_skins": "25 MB",
+      "coins": 100
+    },
 	{
       "title": "Lesley Hawk-eyed Sniper",
       "image": "https://cdn.oneesports.id/cdn-data/sites/2/2022/11/Mobile-Legends_Lesley-Hawk-eyed-Sniper.jpg",
@@ -182,6 +189,14 @@
       "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Fanny%20Original.zip",
       "alterntif_url_skin": "https://www.mediafire.com/file/vqs1tfiphnirkkf/Fanny_Original.zip/file",
       "size_skins": "20 MB",
+      "coins": 100
+    },
+	{
+      "title": "Franco Original",
+      "image": "https://i.ibb.co/55ZcXBQ/franco-mobile-legends-ml-wallpaper-1280x800-3.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Franco%20Original.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/sb7ejcnoet2k3wo/Franco_Original.zip/file",
+      "size_skins": "16 MB",
       "coins": 100
     },
 	{
