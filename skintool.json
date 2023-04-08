@@ -24,7 +24,14 @@
    "SKINS-MOD":
   [
     
-	
+	{
+      "title": "Yu Zhong Exorcist",
+      "image": "https://liquipedia.net/commons/images/9/94/Yu_Zhong_Exorcist_Yu_Zhong_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Yu%20Zhong%20Exorcist.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/wx793rdnd8wyfiy/Yu+Zhong+Exorcist.zip/file",
+      "size_skins": "26 MB",
+      "coins": 100
+    },
 	{
       "title": "Clint Crimson Blast",
       "image": "https://i.ibb.co/xh8Vv03/Fq67-G6wa-YAEj-Wwf.jpg",
@@ -343,7 +350,22 @@
       "alterntif_url_skin": "https://www.mediafire.com/file/88d4j2fv5bnp27m/Xavier_Original.zip/file",
       "size_skins": "17 MB",
       "coins": 100
+    },
+	{
+      "title": "Yu Zhong Original",
+      "image": "https://liquipedia.net/commons/images/4/41/Yu_Zhong_Black_Dragon_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Yu%20Zhong%20Original.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/viwi3pgj01bty7g/Yu+Zhong+Original.zip/file",
+      "size_skins": "14 MB",
+      "coins": 100
     }
+	
+	
+	
+	
+	
+	
+	
   ],
   "GUIDE":
   [
