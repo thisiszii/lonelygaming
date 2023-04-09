@@ -25,7 +25,14 @@
   [
     
 	
-	
+	{
+      "title": "Cecilion Crimson Wings",
+      "image": "https://liquipedia.net/commons/images/0/0a/Cecilion_Crimson_Wings_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Cecilion%20Crimson%20Wings.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/aid3s6stmteh5wy/Cecilion+Crimson+Wings.zip/file",
+      "size_skins": "11 MB",
+      "coins": 100
+    },
 	{
       "title": "Bruno Halo Striker",
       "image": "https://liquipedia.net/commons/images/4/47/Bruno_Halo_Striker_Skin.jpg",
@@ -454,6 +461,14 @@
       "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Bruno%20Original.zip",
       "alterntif_url_skin": "https://www.mediafire.com/file/onncdvidnz5qkd9/Bruno+Original.zip/file",
       "size_skins": "6 MB",
+      "coins": 100
+    },
+	{
+      "title": "Cecilion Original",
+      "image": "https://liquipedia.net/commons/images/b/b6/Cecilion_Embrace_of_Night_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Cecilion%20Original.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/csc4tg5sjun8qqj/Cecilion+Original.zip/file",
+      "size_skins": "15 MB",
       "coins": 100
     },
 	{
