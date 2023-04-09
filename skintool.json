@@ -24,7 +24,14 @@
    "SKINS-MOD":
   [
     
-	
+	{
+      "title": "Leomord Shadow Knight",
+      "image": "https://liquipedia.net/commons/images/a/a0/Leomord_Shadow_Knight_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Leomord%20Shadow%20Knight.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/23yfor8vufmeti1/Leomord+Shadow+Knight.zip/file",
+      "size_skins": "25 MB",
+      "coins": 100
+    },
 	{
       "title": "Aamon Cyber Assassins",
       "image": "https://i.ibb.co/56wwH1k/aamon-cyber-assassin-starlight-skin-wallpaper-hd.jpg",
@@ -485,6 +492,14 @@
       "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Lancelot%20Original.zip",
       "alterntif_url_skin": "https://www.mediafire.com/file/3fi0shgejcoruas/Lancelot_Original.zip/file",
       "size_skins": "26 MB",
+      "coins": 100
+    },
+	{
+      "title": "Leomord Original",
+      "image": "https://liquipedia.net/commons/images/b/b2/Leomord_Sworn_Sword_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Leomord%20Original.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/txkkqg84aqjq43j/Leomord+Original.zip/file",
+      "size_skins": "11 MB",
       "coins": 100
     },
 	{
