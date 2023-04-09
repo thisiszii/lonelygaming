@@ -24,6 +24,32 @@
    "SKINS-MOD":
   [
     
+	
+	
+	{
+      "title": "Fanny Skylark",
+      "image": "https://liquipedia.net/commons/images/b/bc/Fanny_Skylark_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Fanny%20Skylark.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/67h69gtcyoq80er/Fanny+Skylark.zip/file",
+      "size_skins": "5 MB",
+      "coins": 100
+    },
+	{
+      "title": "Karrie Hawkwatch",
+      "image": "https://liquipedia.net/commons/images/9/95/Karrie_Hawkwatch_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Karrie%20Hawkwatch.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/crlxkz3v0wj530f/Karrie+Hawkwatch.zip/file",
+      "size_skins": "7 MB",
+      "coins": 100
+    },
+	{
+      "title": "Change New Moon",
+      "image": "https://liquipedia.net/commons/images/f/f4/Chang%27e_New_Moon_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Change%20New%20Moon.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/lw9z8fjyragqdxl/Change+New+Moon.zip/file",
+      "size_skins": "12 MB",
+      "coins": 100
+    },
 	{
       "title": "Chou STUN",
       "image": "https://liquipedia.net/commons/images/1/11/Chou_S.T.U.N._Chou_Skin.jpg",
@@ -336,6 +362,14 @@
       "coins": 100
     },
 	{
+      "title": "Change Original",
+      "image": "https://liquipedia.net/commons/images/8/8e/Chang%27e_Moon_Palace_Immortal_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Change%20Original.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/qkz0h8ja81g1ubr/Change+Original.zip/file",
+      "size_skins": "9 MB",
+      "coins": 100
+    },
+	{
       "title": "Chou Original",
       "image": "https://wallpapercave.com/wp/wp5890636.jpg",
       "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Chou%20Original.zip",
@@ -421,6 +455,14 @@
       "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Julian%20Original.zip",
       "alterntif_url_skin": "https://www.mediafire.com/file/d373cb0u75s11he/Julian+Original.zip/file",
       "size_skins": "11 MB",
+      "coins": 100
+    },
+	{
+      "title": "Karrie Original",
+      "image": "https://liquipedia.net/commons/images/1/1d/Karrie_Lost_Star_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Karrie%20Original.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/dap2jjekfer526y/Karrie+Original.zip/file",
+      "size_skins": "7 MB",
       "coins": 100
     },
 	{
