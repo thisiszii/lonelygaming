@@ -27,7 +27,14 @@
 	
 	
 	
-	
+	{
+      "title": "Aldous Realm Watcher",
+      "image": "https://liquipedia.net/commons/images/c/c8/Aldous_Realm_Watcher_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Aldous%20Realm%20Watcher.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/55dgeuklwars7tm/Aldous+Realm+Watcher.zip/file",
+      "size_skins": "7 MB",
+      "coins": 100
+    },
 	{
       "title": "Layla Miss Hikari",
       "image": "https://liquipedia.net/commons/images/2/21/Layla_Miss_Hikari_Skin.jpg",
@@ -408,6 +415,14 @@
       "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Aamon%20Original.zip",
       "alterntif_url_skin": "https://www.mediafire.com/file/wf6dnz0roc9qhgw/Aamon+Original.zip/file",
       "size_skins": "12 MB",
+      "coins": 100
+    },
+	{
+      "title": "Aldous Original",
+      "image": "https://liquipedia.net/commons/images/2/21/Aldous_Contractor_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Aldous%20Original.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/yfsjggekhcxobp0/Aldous+Original.zip/file",
+      "size_skins": "16 MB",
       "coins": 100
     },
 	{
