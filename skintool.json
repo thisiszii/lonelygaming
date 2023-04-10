@@ -24,8 +24,22 @@
    "SKINS-MOD":
   [
     
-	
-	
+	{
+      "title": "Dyrroth Venom Cobra",
+      "image": "https://liquipedia.net/commons/images/5/5a/Dyrroth_V.E.N.O.M._Cobra_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Dyrroth%20Venom%20Cobra.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/dmq76tgarfl1gf6/Dyrroth+Venom+Cobra.zip/file",
+      "size_skins": "9 MB",
+      "coins": 100
+    },
+	{
+      "title": "Selena STUN",
+      "image": "https://liquipedia.net/commons/images/c/cf/Selena_S.T.U.N._Selena_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Selena%20STUN.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/5sc75rk5pnfa3jl/Selena+STUN.zip/file",
+      "size_skins": "14 MB",
+      "coins": 100
+    },
 	{
       "title": "Moskov Doom Incarnate",
       "image": "https://liquipedia.net/commons/images/5/52/Moskov_Doom_Incarnate_Skin.jpg",
