@@ -27,7 +27,14 @@
 	
 	
 	
-	
+	{
+      "title": "Vale Supernal Tempest",
+      "image": "https://liquipedia.net/commons/images/8/8f/Vale_Supernal_Tempest_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Vale%20Supernal%20Tempest.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/4ndn09xfvo7qnky/Vale+Supernal+Tempest.zip/file",
+      "size_skins": "9 MB",
+      "coins": 100
+    },
 	{
       "title": "Harith Psychic",
       "image": "https://i.ibb.co/t4gY25H/maxresdefault.jpg",
@@ -1032,6 +1039,14 @@
       "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Thamuz%20Original.zip",
       "alterntif_url_skin": "https://www.mediafire.com/file/ybdqr855kknkan8/Thamuz+Original.zip/file",
       "size_skins": "15 MB",
+      "coins": 100
+    },
+	{
+      "title": "Vale Original",
+      "image": "https://liquipedia.net/commons/images/4/4f/Vale_Windtalker_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Vale%20Original.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/k5lyxcnnz71yrb3/Vale+Original.zip/file",
+      "size_skins": "30 MB",
       "coins": 100
     },
 	{
