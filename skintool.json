@@ -24,6 +24,18 @@
    "SKINS-MOD":
   [
     
+	
+	
+	
+	
+	{
+      "title": "Harith Psychic",
+      "image": "https://i.ibb.co/t4gY25H/maxresdefault.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Harith%20Psychic.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/tv5bxh7e6i28jvn/Harith+Psychic.zip/file",
+      "size_skins": "15 MB",
+      "coins": 100
+    },
 	{
       "title": "Esmeralda Light Envoy",
       "image": "https://liquipedia.net/commons/images/8/8a/Esmeralda_Light_Envoy_Skin.jpg",
@@ -844,6 +856,14 @@
       "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Hanabi%20Original.zip",
       "alterntif_url_skin": "https://www.mediafire.com/file/9lu8ubnygqu8b74/Hanabi+Original.zip/file",
       "size_skins": "50 MB",
+      "coins": 100
+    },
+	{
+      "title": "Harith Original",
+      "image": "https://liquipedia.net/commons/images/e/ee/Harith_Time_Traveler_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Harith%20Original.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/0ifq3407qoqd3xi/Harith+Original.zip/file",
+      "size_skins": "28 MB",
       "coins": 100
     },
 	{
