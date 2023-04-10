@@ -25,6 +25,70 @@
   [
     
 	{
+      "title": "Esmeralda Light Envoy",
+      "image": "https://liquipedia.net/commons/images/8/8a/Esmeralda_Light_Envoy_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Esmeralda%20Light%20Envoy.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/sviqtjatl4uuhxe/Esmeralda+Light+Envoy.zip/file",
+      "size_skins": "10 MB",
+      "coins": 100
+    },
+	{
+      "title": "Aldous Starscream",
+      "image": "https://liquipedia.net/commons/images/b/b4/Aldous_Starscream_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Aldous%20Starscream.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/0edasf90idg0qeg/Aldous+Starscream.zip/file",
+      "size_skins": "10 MB",
+      "coins": 100
+    },
+	{
+      "title": "Cyclops Master Yoda",
+      "image": "https://liquipedia.net/commons/images/1/1a/Cyclops_Master_Yoda_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Cyclops%20Master%20Yoda.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/kqmnm3y6833ztqq/Cyclops+Master+Yoda.zip/file",
+      "size_skins": "6 MB",
+      "coins": 100
+    },
+	{
+      "title": "Gusion Night Owl",
+      "image": "https://liquipedia.net/commons/images/e/e6/Gusion_Night_Owl_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Gusion%20Night%20Owl.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/5tud154oc8bc7s8/Gusion+Night+Owl.zip/file",
+      "size_skins": "6 MB",
+      "coins": 100
+    },
+	{
+      "title": "Nana Aqua Pura",
+      "image": "https://liquipedia.net/commons/images/6/6d/Nana_Aqua_Pura_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Nana%20Aqua%20Pura.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/v4g1gakltpmya3f/Nana+Aqua+Pura.zip/file",
+      "size_skins": "9 MB",
+      "coins": 100
+    },
+	{
+      "title": "Moskov Twilight Dragon",
+      "image": "https://liquipedia.net/commons/images/e/e4/Moskov_Twilight_Dragon_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Moskov%20Twilight%20Dragon.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/e4jgo5lhsmol0k3/Moskov+Twilight+Dragon.zip/file",
+      "size_skins": "5 MB",
+      "coins": 100
+    },
+	{
+      "title": "Hanabi Rakshesha",
+      "image": "https://liquipedia.net/commons/images/1/1c/Hanabi_Rakshesha_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Hanabi%20Rakshesha.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/mnrkechyh7099c1/Hanabi+Rakshesha.zip/file",
+      "size_skins": "7 MB",
+      "coins": 100
+    },
+	{
+      "title": "Karrie Neon Lightwheel",
+      "image": "https://liquipedia.net/commons/images/6/67/Karrie_Neon_Lightwheel_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Karrie%20Neon%20Lightwheel.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/6ynojp4j3na70as/Karrie+Neon+Lightwheel.zip/file",
+      "size_skins": "6 MB",
+      "coins": 100
+    },
+	{
       "title": "Miya Modena Butterfly",
       "image": "https://liquipedia.net/commons/images/8/84/Miya_Modena_Butterfly_Skin.jpg",
       "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Miya%20Modena%20Butterfly.zip",
@@ -695,6 +759,14 @@
       "coins": 100
     },
 	{
+      "title": "Cyclops Original",
+      "image": "https://liquipedia.net/commons/images/7/75/Cyclops_Starsoul_Magician_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Cyclops%20Original.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/mgpua6bd1bmjljs/Cyclops+Original.zip/file",
+      "size_skins": "25 MB",
+      "coins": 100
+    },
+	{
       "title": "Dyrroth Original",
       "image": "https://liquipedia.net/commons/images/d/d3/Dyrroth_Prince_of_the_Abyss_Skin.jpg",
       "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Dyrroth%20Original.zip",
@@ -884,6 +956,14 @@
       "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Moskov%20Original.zip",
       "alterntif_url_skin": "https://www.mediafire.com/file/3g8fy4qohgi4dav/Moskov_Original.zip/file",
       "size_skins": "9 MB",
+      "coins": 100
+    },
+	{
+      "title": "Nana Original",
+      "image": "https://liquipedia.net/commons/images/3/34/Nana_Sweet_Leonin_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Nana%20Original.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/9b5nfcphuq2xh52/Nana+Original.zip/file",
+      "size_skins": "42 MB",
       "coins": 100
     },
 	{
