@@ -24,7 +24,14 @@
    "SKINS-MOD":
   [
     
-	
+	{
+      "title": "Kimmy Frost Wing",
+      "image": "https://liquipedia.net/commons/images/5/5f/Kimmy_Frost_Wing_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Kimmy%20Frost%20Wing.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/s8od4qiks5ufi5k/Kimmy+Frost+Wing.zip/file",
+      "size_skins": "6 MB",
+      "coins": 100
+    },
 	{
       "title": "Martis God of War",
       "image": "https://liquipedia.net/commons/images/9/98/Martis_God_of_War_Skin.jpg",
@@ -701,6 +708,14 @@
       "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Karrie%20Original.zip",
       "alterntif_url_skin": "https://www.mediafire.com/file/dap2jjekfer526y/Karrie+Original.zip/file",
       "size_skins": "7 MB",
+      "coins": 100
+    },
+	{
+      "title": "Kimmy Original",
+      "image": "https://liquipedia.net/commons/images/9/94/Kimmy_Jetpack_Rebel_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Kimmy%20Original.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/x80jpgjpimua2gj/Kimmy+Original.zip/file",
+      "size_skins": "33 MB",
       "coins": 100
     },
 	{
