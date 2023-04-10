@@ -27,7 +27,14 @@
 	
 	
 	
-	
+	{
+      "title": "Zilong Empyrean Paladin",
+      "image": "https://liquipedia.net/commons/images/6/69/Zilong_Empyrean_Paladin_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Zilong%20Empyrean%20Paladin.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/0a2agcwdbvjwhna/Zilong+Empyrean+Paladin.zip/file",
+      "size_skins": "15 MB",
+      "coins": 100
+    },
 	{
       "title": "Gusion Soul Revelation",
       "image": "https://liquipedia.net/commons/images/d/d7/Gusion_Soul_Revelation_Skin.jpg",
@@ -808,6 +815,14 @@
       "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Yu%20Zhong%20Original.zip",
       "alterntif_url_skin": "https://www.mediafire.com/file/viwi3pgj01bty7g/Yu+Zhong+Original.zip/file",
       "size_skins": "14 MB",
+      "coins": 100
+    },
+	{
+      "title": "Zilong Original",
+      "image": "https://liquipedia.net/commons/images/b/b2/Zilong_Spear_of_Dragon_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Zilong%20Original.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/uvacr8lkmx8iwhb/Zilong+Original.zip/file",
+      "size_skins": "57 MB",
       "coins": 100
     }
 	
