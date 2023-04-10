@@ -26,7 +26,14 @@
     
 	
 	
-	
+	{
+      "title": "Aulus War Lion",
+      "image": "https://liquipedia.net/commons/images/c/c6/Aulus_War_Lion_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Aulus%20War%20Lion.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/dohvrjops3k2qbp/Aulus+War+Lion.zip/file",
+      "size_skins": "8 MB",
+      "coins": 100
+    },
 	{
       "title": "Beatrix Light Chaser",
       "image": "https://liquipedia.net/commons/images/6/6a/Beatrix_Light_Chaser_Skin.jpg",
@@ -799,6 +806,14 @@
       "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Angela%20Original.zip",
       "alterntif_url_skin": "https://www.mediafire.com/file/rg6mzpc94si2ksv/Angela+Original.zip/file",
       "size_skins": "5 MB",
+      "coins": 100
+    },
+	{
+      "title": "Aulus Original",
+      "image": "https://liquipedia.net/commons/images/b/b6/Aulus_Warrior_of_Ferocity_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Aulus%20Original.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/g8l64plgfm4yjj4/Aulus+Original.zip/file",
+      "size_skins": "22 MB",
       "coins": 100
     },
 	{
