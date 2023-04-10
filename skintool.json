@@ -24,8 +24,22 @@
    "SKINS-MOD":
   [
     
-	
-	
+	{
+      "title": "Miya Modena Butterfly",
+      "image": "https://liquipedia.net/commons/images/8/84/Miya_Modena_Butterfly_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Miya%20Modena%20Butterfly.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/nsr8z3off7ffjzw/Miya+Modena+Butterfly.zip/file",
+      "size_skins": "11 MB",
+      "coins": 100
+    },
+	{
+      "title": "Esmeralda The Foreseer",
+      "image": "https://liquipedia.net/commons/images/a/ab/Esmeralda_The_Foreseer_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Esmeralda%20The%20Foreseer.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/5rfmtyundgntpw7/Esmeralda+The+Foreseer.zip/file",
+      "size_skins": "8 MB",
+      "coins": 100
+    },
 	{
       "title": "Bruno Firebolt",
       "image": "https://liquipedia.net/commons/images/9/96/Bruno_Firebolt_Skin.jpg",
@@ -694,6 +708,14 @@
       "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Edith%20Original.zip",
       "alterntif_url_skin": "https://www.mediafire.com/file/glorodnxoih6tx4/Edith+Original.zip/file",
       "size_skins": "15 MB",
+      "coins": 100
+    },
+	{
+      "title": "Esmeralda Original",
+      "image": "https://liquipedia.net/commons/images/7/7e/Esmeralda_Astrologer_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Esmeralda%20Original.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/2xgod5vb6r1exp6/Esmeralda+Original.zip/file",
+      "size_skins": "48 MB",
       "coins": 100
     },
 	{
