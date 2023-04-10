@@ -25,7 +25,14 @@
   [
     
 	
-	
+	{
+      "title": "Freya Raven Shogun",
+      "image": "https://liquipedia.net/commons/images/9/90/Freya_Raven_Shogun_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Freya%20Raven%20Shogun.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/17tkrg6eti8n4rb/Freya+Raven+Shogun.zip/file",
+      "size_skins": "7 MB",
+      "coins": 100
+    },
 	{
       "title": "Lesley Angelic Agent",
       "image": "https://liquipedia.net/commons/images/c/c4/Lesley_Angelic_Agent_Skin.jpg",
@@ -678,6 +685,14 @@
       "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Franco%20Original.zip",
       "alterntif_url_skin": "https://www.mediafire.com/file/sb7ejcnoet2k3wo/Franco_Original.zip/file",
       "size_skins": "16 MB",
+      "coins": 100
+    },
+	{
+      "title": "Freya Original",
+      "image": "https://liquipedia.net/commons/images/5/59/Freya_Valkyrie_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Freya%20Original.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/wmw7eiiguryfpzy/Freya+Original.zip/file",
+      "size_skins": "52 MB",
       "coins": 100
     },
 	{
