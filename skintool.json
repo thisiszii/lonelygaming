@@ -24,8 +24,22 @@
    "SKINS-MOD":
   [
     
-	
-	
+	{
+      "title": "Badang Sagittarius Seiya",
+      "image": "https://liquipedia.net/commons/images/b/b1/Badang_Sagittarius_Seiya_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Badang%20Sagittarius%20Seiya.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/3c6rqgil28e8s9u/Badang+Sagittarius+Seiya.zip/file",
+      "size_skins": "15 MB",
+      "coins": 100
+    },
+	{
+      "title": "Benedetta Death Oath",
+      "image": "https://liquipedia.net/commons/images/b/be/Benedetta_Death_Oath_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Benedetta%20Death%20Oath.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/mc8v3wwpqzv7vod/Benedetta+Death+Oath.zip/file",
+      "size_skins": "9 MB",
+      "coins": 100
+    },
 	{
       "title": "Brody Quantum Grip",
       "image": "https://i.ibb.co/mD6t82L/MLBB-Quantum-Grip-Brody.jpg",
@@ -761,11 +775,27 @@
       "coins": 100
     },
 	{
+      "title": "Badang Original",
+      "image": "https://liquipedia.net/commons/images/c/cc/Badang_Tribal_Warrior_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Badang%20Original.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/uyzs1tob1x0o3b3/Badang+Original.zip/file",
+      "size_skins": "43 MB",
+      "coins": 100
+    },
+	{
       "title": "Beatrix Original",
       "image": "https://image.akurat.co/uploads/gallery/2022/10/gal_6350f1f9c2dca7-62393984-17929636.jpg",
       "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Beatrix%20Original.zip",
       "alterntif_url_skin": "https://www.mediafire.com/file/uj971ag34x4rz7o/Beatrix_Original.zip/file",
       "size_skins": "22 MB",
+      "coins": 100
+    },
+	{
+      "title": "Benedetta Original",
+      "image": "https://liquipedia.net/commons/images/5/5e/Benedetta_Shadow_Ranger_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Benedetta%20Original.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/n0fwnygj10o714c/Benedetta+Original.zip/file",
+      "size_skins": "36 MB",
       "coins": 100
     },
 	{
