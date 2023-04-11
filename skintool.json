@@ -24,8 +24,70 @@
    "SKINS-MOD":
   [
     
-	
-	
+	{
+      "title": "Benedetta Street Blow",
+      "image": "https://liquipedia.net/commons/images/9/9a/Benedetta_Street_Blow_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Benedetta%20Street%20Blow.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/smlbdtwuikjc640/Benedetta+Street+Blow.zip/file",
+      "size_skins": "5 MB",
+      "coins": 100
+    },
+	{
+      "title": "Fanny Lightborn Ranger",
+      "image": "https://liquipedia.net/commons/images/a/ad/Fanny_Lightborn_-_Ranger_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Fanny%20Lightborn%20Ranger.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/1grn3p466sjqw6d/Fanny+Lightborn+Ranger.zip/file",
+      "size_skins": "6 MB",
+      "coins": 100
+    },
+	{
+      "title": "Angela Floral Elf",
+      "image": "https://liquipedia.net/commons/images/8/85/Angela_Floral_Elf_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Angela%20Floral%20Elf.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/9ml9zen0molgv50/Angela+Floral+Elf.zip/file",
+      "size_skins": "8 MB",
+      "coins": 100
+    },
+	{
+      "title": "Popol and Kupa Soundwave and Ravage",
+      "image": "https://liquipedia.net/commons/images/b/b0/Popol_and_Kupa_Soundwave_and_Ravage_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Popol%20and%20Kupa%20Soundwave%20and%20Ravage.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/uzykb78wh6semg0/Popol+and+Kupa+Soundwave+and+Ravage.zip/file",
+      "size_skins": "12 MB",
+      "coins": 100
+    },
+	{
+      "title": "Pharsa Empress Phoenix",
+      "image": "https://liquipedia.net/commons/images/0/02/Pharsa_Empress_Phoenix_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Pharsa%20Empress%20Phoenix.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/uk8c4we036bcqdu/Pharsa+Empress+Phoenix.zip/file",
+      "size_skins": "9 MB",
+      "coins": 100
+    },
+	{
+      "title": "Clint Shadow Omen",
+      "image": "https://liquipedia.net/commons/images/1/11/Clint_Shadow_Omen_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Clint%20Shadow%20Omen.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/igvl0nsobyu46k1/Clint+Shadow+Omen.zip/file",
+      "size_skins": "4 MB",
+      "coins": 100
+    },
+	{
+      "title": "Brody Ore-chemist",
+      "image": "https://liquipedia.net/commons/images/9/9f/Brody_Ore-chemist_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Brody%20Ore-chemist.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/e1jfjw4r2dligyd/Brody+Ore-chemist.zip/file",
+      "size_skins": "7 MB",
+      "coins": 100
+    },
+	{
+      "title": "Martis Capricorn",
+      "image": "https://liquipedia.net/commons/images/a/a1/Martis_Capricorn_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Martis%20Capricorn.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/smvx6fu9l5pcdgn/Martis+Capricorn.zip/file",
+      "size_skins": "4 MB",
+      "coins": 100
+    },
 	{
       "title": "Lancelot Empyrean Flame",
       "image": "https://liquipedia.net/commons/images/3/3e/Lancelot_Empyrean_Skin.jpg",
@@ -1374,6 +1436,22 @@
       "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Paquito%20Original.zip",
       "alterntif_url_skin": "https://www.mediafire.com/file/h1z1gbq59hpw349/Paquito+Original.zip/file",
       "size_skins": "40 MB",
+      "coins": 100
+    },
+	{
+      "title": "Pharsa Original",
+      "image": "https://liquipedia.net/commons/images/3/36/Pharsa_Wings_of_Vengeance_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Pharsa%20Original.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/xo9e94y6k129k7q/Pharsa+Original.zip/file",
+      "size_skins": "46 MB",
+      "coins": 100
+    },
+	{
+      "title": "Popol and Kupa Original",
+      "image": "https://liquipedia.net/commons/images/8/82/Popol_and_Kupa_Iceland_Companions_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Popol%20and%20Kupa%20Original.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/exo5hacvyv4lmil/Popol+and+Kupa+Original.zip/file",
+      "size_skins": "18 MB",
       "coins": 100
     },
 	{
