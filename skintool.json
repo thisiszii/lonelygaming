@@ -24,12 +24,38 @@
    "SKINS-MOD":
   [
     
+	
+	
+	{
+      "title": "Sun Wicked Flames",
+      "image": "https://liquipedia.net/commons/images/3/3a/Sun_Wicked_Flames_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Sun%20Wicked%20Flames.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/kapzlnloqjsc2dg/Sun+Wicked+Flames.zip/file",
+      "size_skins": "9 MB",
+      "coins": 100
+    },
+	{
+      "title": "Guinevere Lady Crane",
+      "image": "https://liquipedia.net/commons/images/8/87/Guinevere_Lady_Crane_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Guinevere%20Lady%20Crane.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/a8m7fmohm98lbdc/Guinevere+Lady+Crane.zip/file",
+      "size_skins": "5 MB",
+      "coins": 100
+    },
+	{
+      "title": "Hilda Aries",
+      "image": "https://liquipedia.net/commons/images/3/30/Hilda_Aries_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Hilda%20Aries.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/i9p4yrmbjlt55fu/Hilda+Aries.zip/file",
+      "size_skins": "10 MB",
+      "coins": 100
+    },
 	{
       "title": "Zilong Summer Waves",
       "image": "https://liquipedia.net/commons/images/c/c0/Zilong_Summer_Waves_Skin.jpg",
       "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Zilong%20Summer%20Waves.zip",
       "alterntif_url_skin": "https://www.mediafire.com/file/1oc2y9hfsg6tq6u/Zilong+Summer+Waves.zip/file",
-      "size_skins": "11 MB",
+      "size_skins": "4 MB",
       "coins": 100
     },
 	{
@@ -1484,6 +1510,14 @@
       "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Hayabusa%20Original.zip",
       "alterntif_url_skin": "https://www.mediafire.com/file/5i597l760bp9fsj/Hayabusa+Original.zip/file",
       "size_skins": "21 MB",
+      "coins": 100
+    },
+	{
+      "title": "Hilda Original",
+      "image": "https://liquipedia.net/commons/images/c/c3/Hilda_Power_of_Megalith_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Hilda%20Original.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/8ae3vgjwc7dnvj9/Hilda+Original.zip/file",
+      "size_skins": "26 MB",
       "coins": 100
     },
 	{
