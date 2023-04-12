@@ -24,7 +24,14 @@
    "SKINS-MOD":
   [
     
-	
+	{
+      "title": "Zilong Summer Waves",
+      "image": "https://liquipedia.net/commons/images/c/c0/Zilong_Summer_Waves_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Zilong%20Summer%20Waves.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/1oc2y9hfsg6tq6u/Zilong+Summer+Waves.zip/file",
+      "size_skins": "11 MB",
+      "coins": 100
+    },
 	{
       "title": "Bane Soul Defiler",
       "image": "https://i.ibb.co/5jDrYCC/bane-soul-defiler-epic-skin-wallpaper-hd.jpg",
@@ -38,7 +45,7 @@
       "image": "https://i.ibb.co/F4yGJ0H/MLBB-Keeperofthe-Winds-Vale.jpg",
       "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Vale%20Keeper%20Of%20The%20Winds.zip",
       "alterntif_url_skin": "https://www.mediafire.com/file/09trkfjp411ejnu/Vale+Keeper+Of+The+Winds.zip/file",
-      "size_skins": "15 MB",
+      "size_skins": "16 MB",
       "coins": 100
     },
 	{
