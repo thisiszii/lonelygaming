@@ -25,8 +25,22 @@
   [
     
 	
-	
-	
+	{
+      "title": "Selena Thunder Flash",
+      "image": "https://liquipedia.net/commons/images/8/87/Selena_Thunder_Flash_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Selena%20Thunder%20Flash.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/tjj7x0twpj9zmtq/Selena+Thunder+Flash.zip/file",
+      "size_skins": "7 MB",
+      "coins": 100
+    },
+	{
+      "title": "Saber Codename Storm",
+      "image": "https://liquipedia.net/commons/images/f/f4/Saber_Codename_-_Storm_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Saber%20Codename%20Storm.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/64r1hhheshmkr3e/Saber+Codename+Storm.zip/file",
+      "size_skins": "3 MB",
+      "coins": 100
+    },
 	{
       "title": "Chou King of Muay Thai",
       "image": "https://liquipedia.net/commons/images/2/2e/Chou_King_of_Muay_Thai_Skin.jpg",
