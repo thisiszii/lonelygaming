@@ -24,7 +24,14 @@
    "SKINS-MOD":
   [
     
-	
+	{
+      "title": "Kaja Skyblocker",
+      "image": "https://liquipedia.net/commons/images/4/47/Kaja_Skyblocker_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Kaja%20Skyblocker.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/er9k3s8qtmt9iwa/Kaja+Skyblocker.zip/file",
+      "size_skins": "14 MB",
+      "coins": 100
+    },
 	{
       "title": "Saber Iron Hound",
       "image": "https://i.ibb.co/kQLwbnB/saber-iron-hound-starlight-skin-wallpaper-hd.jpg",
@@ -1749,6 +1756,14 @@
       "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Kagura%20Original.zip",
       "alterntif_url_skin": "https://www.mediafire.com/file/3ezkr24vi0zhfaw/Kagura+Original.zip/file",
       "size_skins": "23 MB",
+      "coins": 100
+    },
+	{
+      "title": "Kaja Original",
+      "image": "https://liquipedia.net/commons/images/0/05/Kaja_Nazar_King_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Kaja%20Original.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/2xzk09orr5m14np/Kaja+Original.zip/file",
+      "size_skins": "24 MB",
       "coins": 100
     },
 	{
