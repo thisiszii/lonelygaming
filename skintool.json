@@ -25,7 +25,14 @@
   [
     
 	
-	
+	{
+      "title": "Minotaur Taurus",
+      "image": "https://liquipedia.net/commons/images/b/ba/Minotaur_Taurus_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Minotaur%20Taurus.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/q1scxngi7mcfidx/Minotaur+Taurus.zip/file",
+      "size_skins": "4 MB",
+      "coins": 100
+    },
 	{
       "title": "Claude Bad Bro",
       "image": "https://liquipedia.net/commons/images/6/64/Claude_Bad_Bro_Skin.jpg",
@@ -1542,6 +1549,14 @@
       "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Melissa%20Original.zip",
       "alterntif_url_skin": "https://www.mediafire.com/file/ctu0x4674laotcp/Melissa+Original.zip/file",
       "size_skins": "11 MB",
+      "coins": 100
+    },
+	{
+      "title": "Minotaur Original",
+      "image": "https://liquipedia.net/commons/images/1/15/Minotaur_Son_of_Minos_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Minotaur%20Original.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/r0py0fj36zhy175/Minotaur+Original.zip/file",
+      "size_skins": "5 MB",
       "coins": 100
     },
 	{
