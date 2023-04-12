@@ -24,7 +24,38 @@
    "SKINS-MOD":
   [
     
-	
+	{
+      "title": "Grock Codename Rhino",
+      "image": "https://liquipedia.net/commons/images/thumb/2/29/Grock_Codename_Rhino_Skin.jpg/800px-Grock_Codename_Rhino_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Grock%20Codename%20Rhino.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/f7c7t6l1s1grzjh/Grock+Codename+Rhino.zip/file",
+      "size_skins": "5 MB",
+      "coins": 100
+    },
+	{
+      "title": "Lancelot Christmas Carnival",
+      "image": "https://liquipedia.net/commons/images/thumb/0/0e/Lancelot_Christmas_Carnvial_Skin.jpg/800px-Lancelot_Christmas_Carnvial_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Lancelot%20Christmas%20Carnival.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/m5mq74b7cse8fe4/Lancelot+Christmas+Carnival.zip/file",
+      "size_skins": "6 MB",
+      "coins": 100
+    },
+	{
+      "title": "Cyclops Straw Doll",
+      "image": "https://liquipedia.net/commons/images/thumb/e/ea/Cyclops_Straw_Doll_Skin.jpg/800px-Cyclops_Straw_Doll_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Cyclops%20Straw%20Doll.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/hxjlr3lk5jnpfzq/Cyclops+Straw+Doll.zip/file",
+      "size_skins": "7 MB",
+      "coins": 100
+    },
+	{
+      "title": "Tigreal Lightborn Defender",
+      "image": "https://liquipedia.net/commons/images/thumb/4/4d/Tigreal_Lightborn_-_Defender_Skin.jpg/800px-Tigreal_Lightborn_-_Defender_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Tigreal%20Lightborn%20Defender.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/vpnufnwtq1hnjlq/Tigreal+Lightborn+Defender.zip/file",
+      "size_skins": "6 MB",
+      "coins": 100
+    },
 	{
       "title": "Valir Infernal Blaze",
       "image": "https://liquipedia.net/commons/images/thumb/2/2f/Valir_Infernal_Blaze_Skin.jpg/800px-Valir_Infernal_Blaze_Skin.jpg",
@@ -2069,6 +2100,14 @@
       "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Thamuz%20Original.zip",
       "alterntif_url_skin": "https://www.mediafire.com/file/ybdqr855kknkan8/Thamuz+Original.zip/file",
       "size_skins": "15 MB",
+      "coins": 100
+    },
+	{
+      "title": "Tigreal Original",
+      "image": "https://liquipedia.net/commons/images/thumb/8/88/Tigreal_Warrior_Of_Dawn_Skin.jpg/800px-Tigreal_Warrior_Of_Dawn_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Tigreal%20Original.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/rtypzmoo00huloq/Tigreal+Original.zip/file",
+      "size_skins": "30 MB",
       "coins": 100
     },
 	{
