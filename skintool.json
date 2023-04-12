@@ -24,9 +24,30 @@
    "SKINS-MOD":
   [
     
-	
-	
-	
+	{
+      "title": "Harley Great Inventor",
+      "image": "https://liquipedia.net/commons/images/thumb/5/59/Harley_Great_Inventor_Skin.jpg/800px-Harley_Great_Inventor_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Harley%20Great%20Inventor.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/s8xoitb0kmh1g84/Harley+Great+Inventor.zip/file",
+      "size_skins": "9 MB",
+      "coins": 100
+    },
+	{
+      "title": "Beatrix Space Agent",
+      "image": "https://liquipedia.net/commons/images/thumb/0/06/Beatrix_Space_Agent_Skin.jpg/800px-Beatrix_Space_Agent_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Beatrix%20Space%20Agent.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/8x4kabd41h7p228/Beatrix+Space+Agent.zip/file",
+      "size_skins": "7 MB",
+      "coins": 100
+    },
+	{
+      "title": "Lancelot Bren Esports",
+      "image": "https://i.ibb.co/crdQF1Z/MLBB-Bren-Esports-Lancelot.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Lancelot%20Bren%20Esports.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/v97zp72ww8fuw68/Lancelot+Bren+Esports.zip/file",
+      "size_skins": "5 MB",
+      "coins": 100
+    },
 	{
       "title": "Granger Agent Z",
       "image": "https://liquipedia.net/commons/images/thumb/1/17/Granger_Agent_Z_Skin.jpg/800px-Granger_Agent_Z_Skin.jpg",
