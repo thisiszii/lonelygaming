@@ -24,6 +24,20 @@
    "SKINS-MOD":
   [
     
+	
+	
+	
+	
+	
+	
+	{
+      "title": "Atlas Space Mech",
+      "image": "https://liquipedia.net/commons/images/a/a6/Atlas_Space_Mech_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Atlas%20Space%20Mech.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/zbirymcd7iav51a/Atlas+Space+Mech.zip/file",
+      "size_skins": "6 MB",
+      "coins": 100
+    },
 	{
       "title": "Granger Starfall Knight",
       "image": "https://liquipedia.net/commons/images/2/26/Granger_Starfall_Knight_Skin.jpg",
@@ -1396,6 +1410,14 @@
       "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Argus%20Original.zip",
       "alterntif_url_skin": "https://www.mediafire.com/file/t5gitkfs0b4tac7/Argus+Original.zip/file",
       "size_skins": "26 MB",
+      "coins": 100
+    },
+	{
+      "title": "Atlas Original",
+      "image": "https://liquipedia.net/commons/images/8/80/Atlas_Ocean_Gladiator_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Atlas%20Original.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/fws19m7hdgrvld2/Atlas+Original.zip/file",
+      "size_skins": "23 MB",
       "coins": 100
     },
 	{
