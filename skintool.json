@@ -26,7 +26,14 @@
     
 	
 	
-	
+	{
+      "title": "Gatotkaca Sentinel",
+      "image": "https://liquipedia.net/commons/images/thumb/0/07/Gatotkaca_Sentinel_Skin.jpg/800px-Gatotkaca_Sentinel_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Gatotkaca%20Sentinel.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/4sb5g7l8w7kygys/Gatotkaca+Sentinel.zip/file",
+      "size_skins": "4 MB",
+      "coins": 100
+    },
 	{
       "title": "Kimmy Astrocat",
       "image": "https://liquipedia.net/commons/images/thumb/2/26/Kimmy_Astrocat_Skin.jpg/800px-Kimmy_Astrocat_Skin.jpg",
@@ -1911,6 +1918,14 @@
       "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Freya%20Original.zip",
       "alterntif_url_skin": "https://www.mediafire.com/file/wmw7eiiguryfpzy/Freya+Original.zip/file",
       "size_skins": "52 MB",
+      "coins": 100
+    },
+	{
+      "title": "Gatotkaca Original",
+      "image": "https://liquipedia.net/commons/images/thumb/9/97/Gatotkaca_Iron_Steel_Skin.jpg/800px-Gatotkaca_Iron_Steel_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Gatotkaca%20Original.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/8u26ljg0aybaitu/Gatotkaca+Original.zip/file",
+      "size_skins": "23 MB",
       "coins": 100
     },
 	{
